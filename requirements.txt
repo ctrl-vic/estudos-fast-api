@@ -1,0 +1,5 @@
+python -m venv envfastapi
+envfastapi\Scripts\activate
+
+pip install fastapi
+pip install uvicorn

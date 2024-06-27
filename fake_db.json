@@ -1,0 +1,25 @@
+{
+    "artistas": [
+        { "id":1, "nome":"Claudinho & Bucheca", "popularidade":82 },
+        { "id":2, "nome":"Rihanna", "popularidade":91 },
+        { "id":3, "nome":"The Cure", "popularidade":54 },
+        { "id":4, "nome":"Baroes da Pisadinha", "popularidade":73 },
+        { "id":5, "nome":"The Weeknd", "popularidade":98 },
+        { "id":6, "nome":"Coldplay", "popularidade":96 },
+        { "id":7, "nome":"Rick Astley", "popularidade":67 }
+    ],
+    "albuns": [
+        { "id":1, "nome":"Ghost Stories", "artista":6, "ano":2014, "qtd_musicas":9 },
+        { "id":2, "nome":"Wish", "artista":3, "ano":1992, "qtd_musicas":12 },
+        { "id":3, "nome":"Vamos Dancar", "artista":1, "ano":2002, "qtd_musicas":12 },
+        { "id":4, "nome":"A Head Full of Dreams", "artista":6, "ano":2015, "qtd_musicas":11 },
+        { "id":5, "nome":"Disintegration", "artista":3, "ano":1989, "qtd_musicas":21 },
+        { "id":6, "nome":"Whenever You Need Somebody", "artista":7, "ano":1987, "qtd_musicas":10 }
+    ],
+    "musicas": [
+        { "id":1, "nome":"Fico Assim sem Voce", "artista":1, "album":3, "duracao":"3:44" },
+        { "id":2, "nome":"To Wish Impossible Things", "artista":3, "album":2, "duracao":"4:39" },
+        { "id":3, "nome":"Up&Up", "artista":6, "album":4, "duracao":"6:45" },
+        { "id":4, "nome":"Never Gonna Give You Up", "artista":7, "album":6, "duracao":"3:33" }
+    ]
+}
